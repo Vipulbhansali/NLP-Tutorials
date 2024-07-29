@@ -2,3 +2,4 @@ numpy
 pandas
 urllib3
 nltk
+more_itertools
